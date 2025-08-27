@@ -28,7 +28,7 @@ Hello Rolly is a simple WordPress plugin that keeps you motivated by displaying 
 
 ## What I Learned 
 
-- I found new built in hooks like admin_head and admin_footer
+- I found new built in hook like `admin_head` 
 - I used `array_rand` to select a random quote
 - Altough it has single function i used a class and object
 
